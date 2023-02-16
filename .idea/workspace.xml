@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffa285b0-c6e5-4549-a39a-1c3fc706b654" name="Changes" comment="该项目由YSJ个人独立开发，Thinker是什么？&#10;&#10;Thinker翻译过来是思想者，初衷是让进入到网站的人能进入到一种思考状态，规划、反思、学习等。&#10;&#10;项目基本模块功能包括了博文网站、Todo项目管理、后台管理系统。&#10;&#10;博文模块 将基于博客网的所有功能上额外增加些自己新的想法；&#10;&#10;Todo模块 灵感来源于Trello，是规划项目待办，记录自己干了什么，该干什么，然后会生成可视化图表。后期会拓展功能：根据个人数据做分析，具体实现方案还没敲定；&#10;&#10;后台管理模块 添加一些标签信息，管理个人用户信息等 管理系统的基本功能；&#10;&#10;Thinker将采用多模块开发+前后端分离模式。&#10;&#10;此项目为后端模块&#10;&#10;项目选型：&#10;SpringBoot、SpringSecurity、MyBatisPlus、Swagger2、Redis、MySQL" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Lp3czxDneoFChBSwRBblgprYpE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "C:/Users/30368/Desktop/web/thinker",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.sjhy.plugin.ui.TemplateSettingForm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ThinkingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Thinking-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ysj.ThinkingApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ysj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ThinkingApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffa285b0-c6e5-4549-a39a-1c3fc706b654" name="Changes" comment="" />
+      <created>1676554281112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676554281112</updated>
+      <workItem from="1676554282246" duration="3845000" />
+    </task>
+    <task id="LOCAL-00001" summary="该项目由YSJ个人独立开发，Thinker是什么？&#10;&#10;Thinker翻译过来是思想者，初衷是让进入到网站的人能进入到一种思考状态，规划、反思、学习等。&#10;&#10;项目基本模块功能包括了博文网站、Todo项目管理、后台管理系统。&#10;&#10;博文模块 将基于博客网的所有功能上额外增加些自己新的想法；&#10;&#10;Todo模块 灵感来源于Trello，是规划项目待办，记录自己干了什么，该干什么，然后会生成可视化图表。后期会拓展功能：根据个人数据做分析，具体实现方案还没敲定；&#10;&#10;后台管理模块 添加一些标签信息，管理个人用户信息等 管理系统的基本功能；&#10;&#10;Thinker将采用多模块开发+前后端分离模式。&#10;&#10;此项目为后端模块&#10;&#10;项目选型：&#10;SpringBoot、SpringSecurity、MyBatisPlus、Swagger2、Redis、MySQL">
+      <created>1676558076563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676558076563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="该项目由YSJ个人独立开发，Thinker是什么？&#10;&#10;Thinker翻译过来是思想者，初衷是让进入到网站的人能进入到一种思考状态，规划、反思、学习等。&#10;&#10;项目基本模块功能包括了博文网站、Todo项目管理、后台管理系统。&#10;&#10;博文模块 将基于博客网的所有功能上额外增加些自己新的想法；&#10;&#10;Todo模块 灵感来源于Trello，是规划项目待办，记录自己干了什么，该干什么，然后会生成可视化图表。后期会拓展功能：根据个人数据做分析，具体实现方案还没敲定；&#10;&#10;后台管理模块 添加一些标签信息，管理个人用户信息等 管理系统的基本功能；&#10;&#10;Thinker将采用多模块开发+前后端分离模式。&#10;&#10;此项目为后端模块&#10;&#10;项目选型：&#10;SpringBoot、SpringSecurity、MyBatisPlus、Swagger2、Redis、MySQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="该项目由YSJ个人独立开发，Thinker是什么？&#10;&#10;Thinker翻译过来是思想者，初衷是让进入到网站的人能进入到一种思考状态，规划、反思、学习等。&#10;&#10;项目基本模块功能包括了博文网站、Todo项目管理、后台管理系统。&#10;&#10;博文模块 将基于博客网的所有功能上额外增加些自己新的想法；&#10;&#10;Todo模块 灵感来源于Trello，是规划项目待办，记录自己干了什么，该干什么，然后会生成可视化图表。后期会拓展功能：根据个人数据做分析，具体实现方案还没敲定；&#10;&#10;后台管理模块 添加一些标签信息，管理个人用户信息等 管理系统的基本功能；&#10;&#10;Thinker将采用多模块开发+前后端分离模式。&#10;&#10;此项目为后端模块&#10;&#10;项目选型：&#10;SpringBoot、SpringSecurity、MyBatisPlus、Swagger2、Redis、MySQL" />
+  </component>
+</project>
