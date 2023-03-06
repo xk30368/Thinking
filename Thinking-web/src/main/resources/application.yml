@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/thinker?useUnicode=true&characterEncoding=UTF-8&serverTimeZone=Asia/Shanghai
     username: root
-    password: xiongkang.00OO
+    password: 1qaz@WSX
     driver-class-name: com.mysql.cj.jdbc.Driver
   servlet:
     multipart:
